@@ -32,7 +32,7 @@ const CONFIG = {
   screenshotDir: path.join(process.cwd(), 'screenshots'),
   maxRetries: 3,
   retryDelay: 5000,
-  headless: process.env.CI === 'false',
+  headless: process.env.CI === 'true',
   enableCompletionNotification: true
 };
 
