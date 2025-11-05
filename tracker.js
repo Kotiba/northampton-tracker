@@ -29,7 +29,7 @@ const CONFIG = {
   telegramChatId: process.env.TELEGRAM_CHAT_ID,
   jobsUrl: 'http://northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job_list/s2/Medical_Dental?_ts=10884&feedid=101589&SelfServiceRequest=true&locale=en-gb&iVersionNumber=12&prs=g6ZPge%2CHTevSc8kRfA9ZLvmn-49pWtJhXrAcocwpueii&prigp=true&_srt=startdate&_sd=a',
   dataFile: path.join(process.cwd(), 'data', 'jobs.json'),
-  screenshotDir: path.join(process.cwd(), 'screenshots', 'nhs'),
+  screenshotDir: path.join(process.cwd(), 'screenshots'),
   maxRetries: 3,
   retryDelay: 5000,
   headless: process.env.CI === 'false',
@@ -82,7 +82,7 @@ function delay(ms) {
 // MAIN TRACKER CLASS
 // ============================================================================
 
-class NHSJobTracker {
+class NorthamptonJobTracker  {
   constructor() {
     this.browser = null;
     this.page = null;
@@ -167,7 +167,7 @@ class NHSJobTracker {
   }
 
   async navigateToJobs() {
-    console.log('🌐 Navigating to NHS job listings...');
+    console.log('🌐 Navigating to Northampton job listings...');
     
     try {
       await this.page.goto(CONFIG.jobsUrl, { 
@@ -192,7 +192,7 @@ class NHSJobTracker {
   }
 
   async scrapeJobs() {
-    console.log('📊 Scraping NHS job listings...');
+    console.log('📊 Scraping Northampton job listings...');
     
     try {
       // Wait for job listings to appear
@@ -240,7 +240,7 @@ class NHSJobTracker {
             const title = `${grade} - ${speciality}`;
 
             // Generate unique ID based on title
-            const id = `nhs-${title.toLowerCase().replace(/[^a-z0-9]+/g, '-').substring(0, 100)}`;
+            const id = `northampton-${title.toLowerCase().replace(/[^a-z0-9]+/g, '-').substring(0, 100)}`;
 
             if (title && id) {
               results.push({
@@ -252,7 +252,7 @@ class NHSJobTracker {
                 workingPattern,
                 hospital: 'Northampton General Hospital NHS Trust',
                 location: 'Northampton',
-                source: 'NHS Jobs',
+                source: 'Northampton Jobs',
                 postedDate: {
                   relative: 'Recently posted',
                   actual: new Date().toISOString(),
@@ -353,7 +353,7 @@ class NHSJobTracker {
 
   async notifyNewJob(job) {
     const message = `
-🆕 *New NHS Job Posted\\!*
+🆕 *New Northampton Job Posted\\!*
 
 *${escapeMarkdown(job.title)}*
 
@@ -378,7 +378,7 @@ class NHSJobTracker {
 
   async notifyError(error, attemptNumber) {
     const message = `
-❌ *NHS Tracker Error*
+❌ *Northampton Job Tracker Error*
 
 Attempt: ${attemptNumber}/${CONFIG.maxRetries}
 Error: \`${escapeMarkdown(error.message)}\`
@@ -395,9 +395,9 @@ Time: ${escapeMarkdown(new Date().toISOString())}
     
     let statusMessage = '';
     if (newCount > 0) {
-      statusMessage = `✅ Run completed\\! 🎉 Found *${escapedNewCount}* new NHS job\\(s\\) out of ${escapedScrapedCount} scraped\\.`;
+      statusMessage = `✅ Run completed\\! 🎉 Found *${escapedNewCount}* new Northampton job\\(s\\) out of ${escapedScrapedCount} scraped\\.`;
     } else {
-      statusMessage = `✅ Run completed\\. Scraped ${escapedScrapedCount} NHS jobs, but *no new* ones found\\. 🕵️`;
+      statusMessage = `✅ Run completed\\. Scraped ${escapedScrapedCount} Northampton jobs, but *no new* ones found\\. 🕵️`;
     }
 
     const timestamp = new Date().toLocaleString('en-GB', { 
@@ -408,7 +408,7 @@ Time: ${escapeMarkdown(new Date().toISOString())}
     const escapedTimestamp = timestamp.replace(/[_*[\]()~`>#+=|{}.!\\-]/g, '\\$&');
 
     const message = `
-*NHS Job Tracker Status*
+*Northampton Job Tracker Status*
 
 ${statusMessage}
 
@@ -437,7 +437,7 @@ _Checked at: ${escapedTimestamp}_
       return 0;
     }
 
-    console.log(`🎉 Found ${newJobs.length} new NHS job(s)!`);
+    console.log(`🎉 Found ${newJobs.length} new Northampton job(s)!`);
 
     newJobs.sort((a, b) => b.postedDate.timestamp - a.postedDate.timestamp);
 
@@ -452,7 +452,7 @@ _Checked at: ${escapedTimestamp}_
   }
 
   async run() {
-    console.log(`🏥 Starting NHS tracker at ${new Date().toISOString()}`);
+    console.log(`🏥 Starting Northampton tracker at ${new Date().toISOString()}`);
     let currentJobs = [];
     let newJobsCount = 0;
 
@@ -532,5 +532,5 @@ process.on('SIGTERM', async () => {
 validateConfig();
 await ensureDirectories();
 
-tracker = new NHSJobTracker();
+tracker = new NorthamptonJobTracker();
 await tracker.runWithRetry();
