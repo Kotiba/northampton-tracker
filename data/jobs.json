@@ -11,11 +11,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-01-16T08:52:42.724Z",
-      "timestamp": 1768553562725
+      "actual": "2026-01-16T09:23:13.863Z",
+      "timestamp": 1768555393863
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Kettering/Kettering_General_Hospital_NHS_Foundation_Trust/Respiratory_Medicine/Respiratory_Medicine-v7550961",
-    "scrapedAt": "2026-01-16T08:52:42.725Z"
+    "scrapedAt": "2026-01-16T09:23:13.863Z"
   },
   {
     "id": "northampton-consultant-speciality-neurology",
@@ -29,11 +29,65 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-01-16T08:52:42.725Z",
-      "timestamp": 1768553562725
+      "actual": "2026-01-16T09:23:13.863Z",
+      "timestamp": 1768555393863
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northampton/Northampton_General_Hospital_NHS_Trust/Neurology/Neurology-v7704460",
-    "scrapedAt": "2026-01-16T08:52:42.725Z"
+    "scrapedAt": "2026-01-16T09:23:13.863Z"
+  },
+  {
+    "id": "northampton-specialty-trainee-speciality-medicine",
+    "title": "Specialty Trainee - Speciality: Medicine",
+    "grade": "Specialty Trainee",
+    "speciality": "Speciality: Medicine",
+    "salary": "Salary: £65,048 - £73,992 per annum",
+    "workingPattern": "Weekly working pattern: Full time - 40 hours per week (40 hours per week)",
+    "hospital": "Northampton General Hospital NHS Trust",
+    "location": "Northampton",
+    "source": "Northampton Jobs",
+    "postedDate": {
+      "relative": "Recently posted",
+      "actual": "2026-01-16T09:23:13.863Z",
+      "timestamp": 1768555393863
+    },
+    "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Kettering/Kettering_General_Hospital_NHS_Foundation_Trust/Medicine/Medicine-v7548355",
+    "scrapedAt": "2026-01-16T09:23:13.863Z"
+  },
+  {
+    "id": "northampton-mt03-speciality-medicine",
+    "title": "MT03 - Speciality: Medicine",
+    "grade": "MT03",
+    "speciality": "Speciality: Medicine",
+    "salary": "Salary: £52,656 per annum",
+    "workingPattern": "Weekly working pattern: \n\tFull timePart timeJob shareFlexible working\n 40 hours per week",
+    "hospital": "Northampton General Hospital NHS Trust",
+    "location": "Northampton",
+    "source": "Northampton Jobs",
+    "postedDate": {
+      "relative": "Recently posted",
+      "actual": "2026-01-16T09:23:13.863Z",
+      "timestamp": 1768555393863
+    },
+    "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Kettering/Kettering_General_Hospital_NHS_Foundation_Trust/Medicine/Medicine-v7643154",
+    "scrapedAt": "2026-01-16T09:23:13.863Z"
+  },
+  {
+    "id": "northampton-mt03-speciality-medicine",
+    "title": "MT03 - Speciality: Medicine",
+    "grade": "MT03",
+    "speciality": "Speciality: Medicine",
+    "salary": "Salary: £52,656 per annum",
+    "workingPattern": "Weekly working pattern: Full time - 40 hours per week",
+    "hospital": "Northampton General Hospital NHS Trust",
+    "location": "Northampton",
+    "source": "Northampton Jobs",
+    "postedDate": {
+      "relative": "Recently posted",
+      "actual": "2026-01-16T09:23:13.863Z",
+      "timestamp": 1768555393863
+    },
+    "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Kettering/Kettering_General_Hospital_NHS_Foundation_Trust/Medicine/Medicine-v7643165",
+    "scrapedAt": "2026-01-16T09:23:13.863Z"
   },
   {
     "id": "northampton-nhs-medical-dental-consultant-speciality-ent",
@@ -47,11 +101,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-01-16T08:52:42.725Z",
-      "timestamp": 1768553562725
+      "actual": "2026-01-16T09:23:13.863Z",
+      "timestamp": 1768555393863
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northampton/Northampton_General_Hospital_NHS_Trust/ENT/ENT-v7623422",
-    "scrapedAt": "2026-01-16T08:52:42.725Z"
+    "scrapedAt": "2026-01-16T09:23:13.863Z"
   },
   {
     "id": "northampton-consultant-speciality-icu",
@@ -65,11 +119,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-01-16T08:52:42.725Z",
-      "timestamp": 1768553562725
+      "actual": "2026-01-16T09:23:13.863Z",
+      "timestamp": 1768555393863
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Kettering/Kettering_General_Hospital_NHS_Foundation_Trust/ICU/ICU-v7732975",
-    "scrapedAt": "2026-01-16T08:52:42.725Z"
+    "scrapedAt": "2026-01-16T09:23:13.863Z"
   },
   {
     "id": "northampton-consultant-speciality-pathology",
@@ -83,11 +137,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-01-16T08:52:42.725Z",
-      "timestamp": 1768553562725
+      "actual": "2026-01-16T09:23:13.863Z",
+      "timestamp": 1768555393863
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Kettering/Kettering_General_Hospital_NHS_Foundation_Trust/Pathology/Pathology-v7733051",
-    "scrapedAt": "2026-01-16T08:52:42.725Z"
+    "scrapedAt": "2026-01-16T09:23:13.863Z"
   },
   {
     "id": "northampton-consultant-clinical-lead-speciality-cellular-pathology",
@@ -101,11 +155,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-01-16T08:52:42.725Z",
-      "timestamp": 1768553562725
+      "actual": "2026-01-16T09:23:13.863Z",
+      "timestamp": 1768555393863
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northampton/Northampton_General_Hospital_NHS_Trust/Cellular_Pathology/Cellular_Pathology-v7733076",
-    "scrapedAt": "2026-01-16T08:52:42.725Z"
+    "scrapedAt": "2026-01-16T09:23:13.863Z"
   },
   {
     "id": "northampton-trust-grade-sho-speciality-medicine",
@@ -119,11 +173,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-01-16T08:52:42.725Z",
-      "timestamp": 1768553562725
+      "actual": "2026-01-16T09:23:13.863Z",
+      "timestamp": 1768555393863
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Kettering/Kettering_General_Hospital_NHS_Foundation_Trust/Medicine/Medicine-v7608291",
-    "scrapedAt": "2026-01-16T08:52:42.725Z"
+    "scrapedAt": "2026-01-16T09:23:13.863Z"
   },
   {
     "id": "northampton-nhs-medical-dental-consultant-speciality-gi-surgery",
@@ -137,11 +191,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-01-16T08:52:42.725Z",
-      "timestamp": 1768553562725
+      "actual": "2026-01-16T09:23:13.863Z",
+      "timestamp": 1768555393863
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northampton/Northampton_General_Hospital_NHS_Trust/GI_Surgery/GI_Surgery-v7681012",
-    "scrapedAt": "2026-01-16T08:52:42.725Z"
+    "scrapedAt": "2026-01-16T09:23:13.863Z"
   },
   {
     "id": "northampton-nhs-locum-consultant-speciality-neurology",
@@ -155,10 +209,10 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-01-16T08:52:42.725Z",
-      "timestamp": 1768553562725
+      "actual": "2026-01-16T09:23:13.863Z",
+      "timestamp": 1768555393863
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northampton/Northampton_General_Hospital_NHS_Trust/Neurology/Neurology-v7736213",
-    "scrapedAt": "2026-01-16T08:52:42.725Z"
+    "scrapedAt": "2026-01-16T09:23:13.863Z"
   }
 ]
