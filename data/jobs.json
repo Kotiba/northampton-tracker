@@ -1,77 +1,5 @@
 [
   {
-    "id": "northampton-nhs-medical-dental-consultant-speciality-ent",
-    "title": "NHS Medical & Dental: Consultant - Speciality: ENT",
-    "grade": "NHS Medical & Dental: Consultant",
-    "speciality": "Speciality: ENT",
-    "salary": "Salary: £109,725 - £145,478 Per Annum / Pro Rata",
-    "workingPattern": "Weekly working pattern: Full time - 10 sessions per week",
-    "hospital": "Northampton General Hospital NHS Trust",
-    "location": "Northampton",
-    "source": "Northampton Jobs",
-    "postedDate": {
-      "relative": "Recently posted",
-      "actual": "2026-02-11T23:37:35.891Z",
-      "timestamp": 1770853055891
-    },
-    "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northampton/Northampton_General_Hospital_NHS_Trust/ENT/ENT-v7623422",
-    "scrapedAt": "2026-02-11T23:37:35.891Z"
-  },
-  {
-    "id": "northampton-consultant-speciality-icu",
-    "title": "Consultant - Speciality: ICU",
-    "grade": "Consultant",
-    "speciality": "Speciality: ICU",
-    "salary": "Salary: £109,725 - £145,478 per annum",
-    "workingPattern": "Weekly working pattern: Full time - 10 sessions per week (On calls)",
-    "hospital": "Northampton General Hospital NHS Trust",
-    "location": "Northampton",
-    "source": "Northampton Jobs",
-    "postedDate": {
-      "relative": "Recently posted",
-      "actual": "2026-02-11T23:37:35.891Z",
-      "timestamp": 1770853055891
-    },
-    "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Kettering/Kettering_General_Hospital_NHS_Foundation_Trust/ICU/ICU-v7732975",
-    "scrapedAt": "2026-02-11T23:37:35.891Z"
-  },
-  {
-    "id": "northampton-consultant-speciality-pathology",
-    "title": "Consultant - Speciality: Pathology",
-    "grade": "Consultant",
-    "speciality": "Speciality: Pathology",
-    "salary": "Salary: £109,725 - £145,478 per annum",
-    "workingPattern": "Weekly working pattern: \n\tFull timePart timeJob shareFlexible working\n 10 sessions per week (10 sessions per week)",
-    "hospital": "Northampton General Hospital NHS Trust",
-    "location": "Northampton",
-    "source": "Northampton Jobs",
-    "postedDate": {
-      "relative": "Recently posted",
-      "actual": "2026-02-11T23:37:35.891Z",
-      "timestamp": 1770853055891
-    },
-    "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Kettering/Kettering_General_Hospital_NHS_Foundation_Trust/Pathology/Pathology-v7733051",
-    "scrapedAt": "2026-02-11T23:37:35.891Z"
-  },
-  {
-    "id": "northampton-consultant-clinical-lead-speciality-cellular-pathology",
-    "title": "Consultant & Clinical Lead - Speciality: Cellular Pathology",
-    "grade": "Consultant & Clinical Lead",
-    "speciality": "Speciality: Cellular Pathology",
-    "salary": "Salary: £109,725 - £145,478 Per Annum / Pro Rata",
-    "workingPattern": "Weekly working pattern: Full time - 10 sessions per week",
-    "hospital": "Northampton General Hospital NHS Trust",
-    "location": "Northampton",
-    "source": "Northampton Jobs",
-    "postedDate": {
-      "relative": "Recently posted",
-      "actual": "2026-02-11T23:37:35.891Z",
-      "timestamp": 1770853055891
-    },
-    "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northampton/Northampton_General_Hospital_NHS_Trust/Cellular_Pathology/Cellular_Pathology-v7733076",
-    "scrapedAt": "2026-02-11T23:37:35.891Z"
-  },
-  {
     "id": "northampton-consultant-speciality-ophthalmology",
     "title": "Consultant - Speciality: Ophthalmology",
     "grade": "Consultant",
@@ -83,11 +11,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-02-11T23:37:35.891Z",
-      "timestamp": 1770853055891
+      "actual": "2026-02-12T01:52:08.247Z",
+      "timestamp": 1770861128247
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northampton/Northampton_General_Hospital_NHS_Trust/Ophthalmology/Ophthalmology-v7748334",
-    "scrapedAt": "2026-02-11T23:37:35.891Z"
+    "scrapedAt": "2026-02-12T01:52:08.247Z"
   },
   {
     "id": "northampton-consultant-speciality-dermatology",
@@ -101,11 +29,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-02-11T23:37:35.891Z",
-      "timestamp": 1770853055891
+      "actual": "2026-02-12T01:52:08.247Z",
+      "timestamp": 1770861128247
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Kettering/Kettering_General_Hospital_NHS_Foundation_Trust/Dermatology/Dermatology-v7654717",
-    "scrapedAt": "2026-02-11T23:37:35.891Z"
+    "scrapedAt": "2026-02-12T01:52:08.247Z"
   },
   {
     "id": "northampton-nhs-locum-consultant-speciality-ophthalmology",
@@ -119,11 +47,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-02-11T23:37:35.891Z",
-      "timestamp": 1770853055891
+      "actual": "2026-02-12T01:52:08.247Z",
+      "timestamp": 1770861128247
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northampton/Northampton_General_Hospital_NHS_Trust/Ophthalmology/Ophthalmology-v7777850",
-    "scrapedAt": "2026-02-11T23:37:35.891Z"
+    "scrapedAt": "2026-02-12T01:52:08.247Z"
   },
   {
     "id": "northampton-nhs-medical-dental-consultant-speciality-geriatric-medicine",
@@ -137,29 +65,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-02-11T23:37:35.891Z",
-      "timestamp": 1770853055891
+      "actual": "2026-02-12T01:52:08.247Z",
+      "timestamp": 1770861128247
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northampton/Northampton_General_Hospital_NHS_Trust/Geriatric_Medicine/Geriatric_Medicine-v7693860",
-    "scrapedAt": "2026-02-11T23:37:35.891Z"
-  },
-  {
-    "id": "northampton-senior-clinical-fellow-imt3-equivalent-speciality-general-medicine",
-    "title": "Senior Clinical Fellow (IMT3 equivalent) - Speciality: General Medicine",
-    "grade": "Senior Clinical Fellow (IMT3 equivalent)",
-    "speciality": "Speciality: General Medicine",
-    "salary": "Salary: £52,656 - £65,048 Per annum / pro rata",
-    "workingPattern": "Weekly working pattern: \n\tFull timePart timeJob shareFlexible working\n 40 hours per week (covering nights, lates and on calls)",
-    "hospital": "Northampton General Hospital NHS Trust",
-    "location": "Northampton",
-    "source": "Northampton Jobs",
-    "postedDate": {
-      "relative": "Recently posted",
-      "actual": "2026-02-11T23:37:35.891Z",
-      "timestamp": 1770853055891
-    },
-    "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northampton/Northampton_General_Hospital_NHS_Trust/General_Medicine/General_Medicine-v7680768",
-    "scrapedAt": "2026-02-11T23:37:35.891Z"
+    "scrapedAt": "2026-02-12T01:52:08.247Z"
   },
   {
     "id": "northampton-senior-clinical-fellow-speciality-general-medicine",
@@ -173,10 +83,10 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-02-11T23:37:35.891Z",
-      "timestamp": 1770853055891
+      "actual": "2026-02-12T01:52:08.247Z",
+      "timestamp": 1770861128247
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northampton/Northampton_General_Hospital_NHS_Trust/general_medicine/general_medicine-v7691591",
-    "scrapedAt": "2026-02-11T23:37:35.891Z"
+    "scrapedAt": "2026-02-12T01:52:08.247Z"
   }
 ]
