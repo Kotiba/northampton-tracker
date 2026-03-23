@@ -11,11 +11,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-03-23T08:12:11.772Z",
-      "timestamp": 1774253531772
+      "actual": "2026-03-23T09:36:11.505Z",
+      "timestamp": 1774258571506
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northampton/Northampton_General_Hospital_NHS_Trust/Specialty_Doctor_Oral_Maxillofacial_Surgery/Specialty_Doctor_Oral_Maxillofacial_Surgery-v7824563",
-    "scrapedAt": "2026-03-23T08:12:11.772Z"
+    "scrapedAt": "2026-03-23T09:36:11.506Z"
   },
   {
     "id": "northampton-locum-consultant-speciality-obstetrics-gynaecology",
@@ -29,11 +29,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-03-23T08:12:11.772Z",
-      "timestamp": 1774253531772
+      "actual": "2026-03-23T09:36:11.506Z",
+      "timestamp": 1774258571506
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Kettering/Kettering_General_Hospital_NHS_Foundation_Trust/Obstetrics_Gynaecology/Obstetrics_Gynaecology-v7834514",
-    "scrapedAt": "2026-03-23T08:12:11.772Z"
+    "scrapedAt": "2026-03-23T09:36:11.506Z"
   },
   {
     "id": "northampton-consultant-speciality-cardiology-medicine",
@@ -47,11 +47,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-03-23T08:12:11.772Z",
-      "timestamp": 1774253531772
+      "actual": "2026-03-23T09:36:11.506Z",
+      "timestamp": 1774258571506
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Kettering/Kettering_General_Hospital_NHS_Foundation_Trust/Cardiology_Medicine/Cardiology_Medicine-v7734604",
-    "scrapedAt": "2026-03-23T08:12:11.772Z"
+    "scrapedAt": "2026-03-23T09:36:11.506Z"
   },
   {
     "id": "northampton-consultant-speciality-gastroenterology",
@@ -65,29 +65,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-03-23T08:12:11.772Z",
-      "timestamp": 1774253531772
+      "actual": "2026-03-23T09:36:11.506Z",
+      "timestamp": 1774258571506
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northampton/Northampton_General_Hospital_NHS_Trust/Gastroenterology/Gastroenterology-v7821050",
-    "scrapedAt": "2026-03-23T08:12:11.772Z"
-  },
-  {
-    "id": "northampton-junior-clinical-fellow-speciality-urgent-care-acute-medicine",
-    "title": "Junior Clinical Fellow - Speciality: Urgent care/Acute Medicine",
-    "grade": "Junior Clinical Fellow",
-    "speciality": "Speciality: Urgent care/Acute Medicine",
-    "salary": "Salary: £52,656 - £65,048 per annum pro rata",
-    "workingPattern": "Weekly working pattern: \n\tFull timePart timeJob shareFlexible working\n 40 hours per week (40 hours per week covering nights, lates, weekends and on calls)",
-    "hospital": "Northampton General Hospital NHS Trust",
-    "location": "Northampton",
-    "source": "Northampton Jobs",
-    "postedDate": {
-      "relative": "Recently posted",
-      "actual": "2026-03-23T08:12:11.772Z",
-      "timestamp": 1774253531772
-    },
-    "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northampton/Northampton_General_Hospital_NHS_Trust/Urgent_careAcute_Medicine/Urgent_careAcute_Medicine-v7796523",
-    "scrapedAt": "2026-03-23T08:12:11.772Z"
+    "scrapedAt": "2026-03-23T09:36:11.506Z"
   },
   {
     "id": "northampton-consultant-speciality-elderly-medicine-and-stroke",
@@ -101,11 +83,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-03-23T08:12:11.772Z",
-      "timestamp": 1774253531772
+      "actual": "2026-03-23T09:36:11.506Z",
+      "timestamp": 1774258571506
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Cliftonville/Northampton_General_Hospital_NHS_Trust/elderly_medicine_stroke/elderly_medicine_stroke-v7812239",
-    "scrapedAt": "2026-03-23T08:12:11.772Z"
+    "scrapedAt": "2026-03-23T09:36:11.506Z"
   },
   {
     "id": "northampton-consultant-speciality-general-medicine",
@@ -119,11 +101,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-03-23T08:12:11.773Z",
-      "timestamp": 1774253531773
+      "actual": "2026-03-23T09:36:11.506Z",
+      "timestamp": 1774258571506
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northampton/Northampton_General_Hospital_NHS_Trust/General_Medicine/General_Medicine-v7812393",
-    "scrapedAt": "2026-03-23T08:12:11.773Z"
+    "scrapedAt": "2026-03-23T09:36:11.506Z"
   },
   {
     "id": "northampton-consultant-speciality-general-surgery",
@@ -137,11 +119,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-03-23T08:12:11.773Z",
-      "timestamp": 1774253531773
+      "actual": "2026-03-23T09:36:11.506Z",
+      "timestamp": 1774258571506
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Kettering/Kettering_General_Hospital_NHS_Foundation_Trust/General_Surgery/General_Surgery-v7882621",
-    "scrapedAt": "2026-03-23T08:12:11.773Z"
+    "scrapedAt": "2026-03-23T09:36:11.506Z"
   },
   {
     "id": "northampton-consultant-speciality-orthodontics",
@@ -155,10 +137,10 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-03-23T08:12:11.773Z",
-      "timestamp": 1774253531773
+      "actual": "2026-03-23T09:36:11.506Z",
+      "timestamp": 1774258571506
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northampton/Northampton_General_Hospital_NHS_Trust/Orthodontics/Orthodontics-v7752924",
-    "scrapedAt": "2026-03-23T08:12:11.773Z"
+    "scrapedAt": "2026-03-23T09:36:11.506Z"
   }
 ]
