@@ -11,29 +11,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-04-15T22:08:41.758Z",
-      "timestamp": 1776290921758
+      "actual": "2026-04-15T23:08:44.673Z",
+      "timestamp": 1776294524673
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northampton/Northampton_General_Hospital_NHS_Trust/Orthodontics/Orthodontics-v7752924",
-    "scrapedAt": "2026-04-15T22:08:41.758Z"
-  },
-  {
-    "id": "northampton-consultant-speciality-radiology-medicine",
-    "title": "Consultant - Speciality: Radiology, Medicine",
-    "grade": "Consultant",
-    "speciality": "Speciality: Radiology, Medicine",
-    "salary": "Salary: £109,725 - £145,478 Per Annum pro rata",
-    "workingPattern": "Weekly working pattern: 10 sessions per week (Full Time)",
-    "hospital": "Northampton General Hospital NHS Trust",
-    "location": "Northampton",
-    "source": "Northampton Jobs",
-    "postedDate": {
-      "relative": "Recently posted",
-      "actual": "2026-04-15T22:08:41.759Z",
-      "timestamp": 1776290921759
-    },
-    "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Kettering/Kettering_General_Hospital_NHS_Foundation_Trust/Radiology_Medicine/Radiology_Medicine-v7913170",
-    "scrapedAt": "2026-04-15T22:08:41.759Z"
+    "scrapedAt": "2026-04-15T23:08:44.673Z"
   },
   {
     "id": "northampton-nhs-medical-dental-consultant-speciality-clinical-haematology",
@@ -47,11 +29,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-04-15T22:08:41.759Z",
-      "timestamp": 1776290921759
+      "actual": "2026-04-15T23:08:44.673Z",
+      "timestamp": 1776294524673
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Kettering/Kettering_General_Hospital_NHS_Foundation_Trust/Clinical_Haematology/Clinical_Haematology-v7914167",
-    "scrapedAt": "2026-04-15T22:08:41.759Z"
+    "scrapedAt": "2026-04-15T23:08:44.673Z"
   },
   {
     "id": "northampton-consultant-speciality-vascular-surgery",
@@ -65,11 +47,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-04-15T22:08:41.759Z",
-      "timestamp": 1776290921759
+      "actual": "2026-04-15T23:08:44.673Z",
+      "timestamp": 1776294524673
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northampton/Northampton_General_Hospital_NHS_Trust/Vascular_Surgery/Vascular_Surgery-v7835247",
-    "scrapedAt": "2026-04-15T22:08:41.759Z"
+    "scrapedAt": "2026-04-15T23:08:44.673Z"
   },
   {
     "id": "northampton-consultant-speciality-medicine",
@@ -83,11 +65,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-04-15T22:08:41.759Z",
-      "timestamp": 1776290921759
+      "actual": "2026-04-15T23:08:44.673Z",
+      "timestamp": 1776294524673
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Kettering/Kettering_General_Hospital_NHS_Foundation_Trust/Medicine/Medicine-v7768521",
-    "scrapedAt": "2026-04-15T22:08:41.759Z"
+    "scrapedAt": "2026-04-15T23:08:44.673Z"
   },
   {
     "id": "northampton-st3-5-speciality-anaesthetics",
@@ -101,11 +83,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-04-15T22:08:41.759Z",
-      "timestamp": 1776290921759
+      "actual": "2026-04-15T23:08:44.673Z",
+      "timestamp": 1776294524673
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northampton/Northampton_General_Hospital_NHS_Trust/Anaesthetics/Anaesthetics-v7890256",
-    "scrapedAt": "2026-04-15T22:08:41.759Z"
+    "scrapedAt": "2026-04-15T23:08:44.673Z"
   },
   {
     "id": "northampton-consultant-speciality-obstetrics",
@@ -119,10 +101,10 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-04-15T22:08:41.759Z",
-      "timestamp": 1776290921759
+      "actual": "2026-04-15T23:08:44.673Z",
+      "timestamp": 1776294524673
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northampton/Northampton_General_Hospital_NHS_Trust/Obstetrics/Obstetrics-v7936265",
-    "scrapedAt": "2026-04-15T22:08:41.759Z"
+    "scrapedAt": "2026-04-15T23:08:44.673Z"
   }
 ]
