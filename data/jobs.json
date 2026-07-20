@@ -11,11 +11,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-07-20T11:20:45.430Z",
-      "timestamp": 1784546445430
+      "actual": "2026-07-20T13:24:14.435Z",
+      "timestamp": 1784553854435
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Kettering/Kettering_General_Hospital_NHS_Foundation_Trust/Trauma_Orthopaedics/Trauma_Orthopaedics-v8096879",
-    "scrapedAt": "2026-07-20T11:20:45.430Z"
+    "scrapedAt": "2026-07-20T13:24:14.435Z"
   },
   {
     "id": "northampton-consultant-speciality-medicine",
@@ -29,11 +29,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-07-20T11:20:45.430Z",
-      "timestamp": 1784546445430
+      "actual": "2026-07-20T13:24:14.435Z",
+      "timestamp": 1784553854435
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Kettering/Kettering_General_Hospital_NHS_Foundation_Trust/Medicine/Medicine-v8091526",
-    "scrapedAt": "2026-07-20T11:20:45.430Z"
+    "scrapedAt": "2026-07-20T13:24:14.435Z"
   },
   {
     "id": "northampton-trust-grade-sho-speciality-medicine",
@@ -47,10 +47,46 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-07-20T11:20:45.430Z",
-      "timestamp": 1784546445430
+      "actual": "2026-07-20T13:24:14.435Z",
+      "timestamp": 1784553854435
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Kettering/Kettering_General_Hospital_NHS_Foundation_Trust/Medicine/Medicine-v8162980",
-    "scrapedAt": "2026-07-20T11:20:45.430Z"
+    "scrapedAt": "2026-07-20T13:24:14.435Z"
+  },
+  {
+    "id": "northampton-specialist-grade-speciality-trauma-and-orthopaedics",
+    "title": "Specialist Grade - Speciality: Trauma and Orthopaedics",
+    "grade": "Specialist Grade",
+    "speciality": "Speciality: Trauma and Orthopaedics",
+    "salary": "Salary: £104,401 - £115,341 per annum/pro rata",
+    "workingPattern": "Weekly working pattern: Full time - 10 sessions per week",
+    "hospital": "Northampton General Hospital NHS Trust",
+    "location": "Northampton",
+    "source": "Northampton Jobs",
+    "postedDate": {
+      "relative": "Recently posted",
+      "actual": "2026-07-20T13:24:14.435Z",
+      "timestamp": 1784553854435
+    },
+    "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northampton/Northampton_General_Hospital_NHS_Trust/Trauma_Orthopaedics/Trauma_Orthopaedics-v8075085",
+    "scrapedAt": "2026-07-20T13:24:14.435Z"
+  },
+  {
+    "id": "northampton-consultant-speciality-neurology",
+    "title": "Consultant - Speciality: Neurology",
+    "grade": "Consultant",
+    "speciality": "Speciality: Neurology",
+    "salary": "Salary: £113,565 - £150,569 per annum pro rata",
+    "workingPattern": "Weekly working pattern: Full time - 10 sessions per week",
+    "hospital": "Northampton General Hospital NHS Trust",
+    "location": "Northampton",
+    "source": "Northampton Jobs",
+    "postedDate": {
+      "relative": "Recently posted",
+      "actual": "2026-07-20T13:24:14.435Z",
+      "timestamp": 1784553854435
+    },
+    "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northampton/Northampton_General_Hospital_NHS_Trust/Neurology/Neurology-v8145955",
+    "scrapedAt": "2026-07-20T13:24:14.435Z"
   }
 ]
