@@ -11,47 +11,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-08-06T15:23:56.299Z",
-      "timestamp": 1786029836300
+      "actual": "2026-08-07T00:38:29.977Z",
+      "timestamp": 1786063109977
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Kettering/Kettering_General_Hospital_NHS_Foundation_Trust/Medicine/Medicine-v8091526",
-    "scrapedAt": "2026-08-06T15:23:56.300Z"
-  },
-  {
-    "id": "northampton-associate-specialist-speciality-dermatology",
-    "title": "Associate Specialist - Speciality: Dermatology",
-    "grade": "Associate Specialist",
-    "speciality": "Speciality: Dermatology",
-    "salary": "Salary: £63,696 - £102,689 per annum pro rata",
-    "workingPattern": "Weekly working pattern: \n\tPart timeFlexible working\n 8 sessions per week",
-    "hospital": "Northampton General Hospital NHS Trust",
-    "location": "Northampton",
-    "source": "Northampton Jobs",
-    "postedDate": {
-      "relative": "Recently posted",
-      "actual": "2026-08-06T15:23:56.300Z",
-      "timestamp": 1786029836300
-    },
-    "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Kettering/Kettering_General_Hospital_NHS_Foundation_Trust/Dermatology/Dermatology-v8118428",
-    "scrapedAt": "2026-08-06T15:23:56.300Z"
-  },
-  {
-    "id": "northampton-locum-consultant-speciality-dermatology",
-    "title": "Locum Consultant - Speciality: Dermatology",
-    "grade": "Locum Consultant",
-    "speciality": "Speciality: Dermatology",
-    "salary": "Salary: £113,565 - £150,569 per annum",
-    "workingPattern": "Weekly working pattern: Full time - 37.5 hours per week",
-    "hospital": "Northampton General Hospital NHS Trust",
-    "location": "Northampton",
-    "source": "Northampton Jobs",
-    "postedDate": {
-      "relative": "Recently posted",
-      "actual": "2026-08-06T15:23:56.300Z",
-      "timestamp": 1786029836300
-    },
-    "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Kettering/Kettering_General_Hospital_NHS_Foundation_Trust/Dermatology/Dermatology-v8142528",
-    "scrapedAt": "2026-08-06T15:23:56.300Z"
+    "scrapedAt": "2026-08-07T00:38:29.977Z"
   },
   {
     "id": "northampton-consultant-speciality-clinical-haematology",
@@ -65,11 +29,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-08-06T15:23:56.300Z",
-      "timestamp": 1786029836300
+      "actual": "2026-08-07T00:38:29.977Z",
+      "timestamp": 1786063109977
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Kettering/Kettering_General_Hospital_NHS_Foundation_Trust/Clinical_Haematology/Clinical_Haematology-v8153363",
-    "scrapedAt": "2026-08-06T15:23:56.300Z"
+    "scrapedAt": "2026-08-07T00:38:29.977Z"
   },
   {
     "id": "northampton-locum-consultant-speciality-trauma-orthopaedics",
@@ -83,10 +47,10 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-08-06T15:23:56.300Z",
-      "timestamp": 1786029836300
+      "actual": "2026-08-07T00:38:29.977Z",
+      "timestamp": 1786063109977
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Kettering/Kettering_General_Hospital_NHS_Foundation_Trust/Trauma_Orthopaedics/Trauma_Orthopaedics-v8150278",
-    "scrapedAt": "2026-08-06T15:23:56.300Z"
+    "scrapedAt": "2026-08-07T00:38:29.977Z"
   }
 ]
