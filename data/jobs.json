@@ -11,11 +11,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-08-17T19:49:48.014Z",
-      "timestamp": 1786996188014
+      "actual": "2026-08-17T20:20:16.272Z",
+      "timestamp": 1786998016272
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Kettering/Kettering_General_Hospital_NHS_Foundation_Trust/Medical_Education/Medical_Education-v8195151",
-    "scrapedAt": "2026-08-17T19:49:48.014Z"
+    "scrapedAt": "2026-08-17T20:20:16.272Z"
   },
   {
     "id": "northampton-specialist-grade-speciality-dermatology",
@@ -29,11 +29,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-08-17T19:49:48.014Z",
-      "timestamp": 1786996188014
+      "actual": "2026-08-17T20:20:16.272Z",
+      "timestamp": 1786998016272
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northamptonshire/Kettering_General_Hospital_NHS_Foundation_Trust/Dermatology/Dermatology-v8135540",
-    "scrapedAt": "2026-08-17T19:49:48.014Z"
+    "scrapedAt": "2026-08-17T20:20:16.272Z"
   },
   {
     "id": "northampton-consultant-speciality-clinical-haematology",
@@ -47,28 +47,10 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-08-17T19:49:48.014Z",
-      "timestamp": 1786996188014
+      "actual": "2026-08-17T20:20:16.272Z",
+      "timestamp": 1786998016272
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Kettering/Kettering_General_Hospital_NHS_Foundation_Trust/Clinical_Haematology/Clinical_Haematology-v8229829",
-    "scrapedAt": "2026-08-17T19:49:48.014Z"
-  },
-  {
-    "id": "northampton-junior-clinical-fellow-speciality-elderly-medicine",
-    "title": "Junior Clinical Fellow - Speciality: elderly Medicine",
-    "grade": "Junior Clinical Fellow",
-    "speciality": "Speciality: elderly Medicine",
-    "salary": "Salary: £54,499 per annum / pro rata",
-    "workingPattern": "Weekly working pattern: \n\tFull timePart timeFlexible working\n 40 hours per week (on call and weekends)",
-    "hospital": "Northampton General Hospital NHS Trust",
-    "location": "Northampton",
-    "source": "Northampton Jobs",
-    "postedDate": {
-      "relative": "Recently posted",
-      "actual": "2026-08-17T19:49:48.014Z",
-      "timestamp": 1786996188014
-    },
-    "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northampton/Northampton_General_Hospital_NHS_Trust/elderly_Medicine/elderly_Medicine-v8164401",
-    "scrapedAt": "2026-08-17T19:49:48.014Z"
+    "scrapedAt": "2026-08-17T20:20:16.272Z"
   }
 ]
