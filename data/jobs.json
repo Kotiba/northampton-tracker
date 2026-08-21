@@ -11,11 +11,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-08-21T21:47:26.042Z",
-      "timestamp": 1787348846042
+      "actual": "2026-08-21T22:18:49.878Z",
+      "timestamp": 1787350729878
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Kettering/Kettering_General_Hospital_NHS_Foundation_Trust/Medical_Education/Medical_Education-v8195151",
-    "scrapedAt": "2026-08-21T21:47:26.042Z"
+    "scrapedAt": "2026-08-21T22:18:49.878Z"
   },
   {
     "id": "northampton-consultant-speciality-clinical-haematology",
@@ -29,10 +29,10 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-08-21T21:47:26.042Z",
-      "timestamp": 1787348846042
+      "actual": "2026-08-21T22:18:49.878Z",
+      "timestamp": 1787350729878
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Kettering/Kettering_General_Hospital_NHS_Foundation_Trust/Clinical_Haematology/Clinical_Haematology-v8229829",
-    "scrapedAt": "2026-08-21T21:47:26.042Z"
+    "scrapedAt": "2026-08-21T22:18:49.878Z"
   }
 ]
