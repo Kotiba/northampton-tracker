@@ -11,11 +11,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-08-26T05:28:59.947Z",
-      "timestamp": 1787722139947
+      "actual": "2026-08-26T06:00:39.683Z",
+      "timestamp": 1787724039683
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Kettering/Kettering_General_Hospital_NHS_Foundation_Trust/Medical_Education/Medical_Education-v8195151",
-    "scrapedAt": "2026-08-26T05:28:59.947Z"
+    "scrapedAt": "2026-08-26T06:00:39.683Z"
   },
   {
     "id": "northampton-consultant-speciality-clinical-haematology",
@@ -29,11 +29,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-08-26T05:28:59.947Z",
-      "timestamp": 1787722139947
+      "actual": "2026-08-26T06:00:39.683Z",
+      "timestamp": 1787724039683
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Kettering/Kettering_General_Hospital_NHS_Foundation_Trust/Clinical_Haematology/Clinical_Haematology-v8229829",
-    "scrapedAt": "2026-08-26T05:28:59.947Z"
+    "scrapedAt": "2026-08-26T06:00:39.683Z"
   },
   {
     "id": "northampton-junior-clinical-fellow-speciality-emergency-medicine",
@@ -47,10 +47,10 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-08-26T05:28:59.947Z",
-      "timestamp": 1787722139947
+      "actual": "2026-08-26T06:00:39.683Z",
+      "timestamp": 1787724039683
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northamptonshire/Northampton_General_Hospital_NHS_Trust/Emergency_medicine/Emergency_medicine-v8190142",
-    "scrapedAt": "2026-08-26T05:28:59.947Z"
+    "scrapedAt": "2026-08-26T06:00:39.683Z"
   }
 ]
