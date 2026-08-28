@@ -11,11 +11,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-08-28T03:59:31.693Z",
-      "timestamp": 1787889571693
+      "actual": "2026-08-28T16:29:06.395Z",
+      "timestamp": 1787934546395
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Kettering/Kettering_General_Hospital_NHS_Foundation_Trust/Medical_Education/Medical_Education-v8195151",
-    "scrapedAt": "2026-08-28T03:59:31.693Z"
+    "scrapedAt": "2026-08-28T16:29:06.395Z"
   },
   {
     "id": "northampton-consultant-speciality-clinical-haematology",
@@ -29,11 +29,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-08-28T03:59:31.693Z",
-      "timestamp": 1787889571693
+      "actual": "2026-08-28T16:29:06.395Z",
+      "timestamp": 1787934546395
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Kettering/Kettering_General_Hospital_NHS_Foundation_Trust/Clinical_Haematology/Clinical_Haematology-v8229829",
-    "scrapedAt": "2026-08-28T03:59:31.693Z"
+    "scrapedAt": "2026-08-28T16:29:06.395Z"
   },
   {
     "id": "northampton-junior-clinical-fellow-speciality-emergency-medicine",
@@ -47,10 +47,82 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-08-28T03:59:31.693Z",
-      "timestamp": 1787889571693
+      "actual": "2026-08-28T16:29:06.395Z",
+      "timestamp": 1787934546395
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northamptonshire/Northampton_General_Hospital_NHS_Trust/Emergency_medicine/Emergency_medicine-v8190142",
-    "scrapedAt": "2026-08-28T03:59:31.693Z"
+    "scrapedAt": "2026-08-28T16:29:06.395Z"
+  },
+  {
+    "id": "northampton-locum-consultant-speciality-head-and-neck-ent-locum-consultant",
+    "title": "Locum Consultant - Speciality: Head and Neck ENT Locum Consultant",
+    "grade": "Locum Consultant",
+    "speciality": "Speciality: Head and Neck ENT Locum Consultant",
+    "salary": "Salary: £113,565 - £150,569 per annum pro rata",
+    "workingPattern": "Weekly working pattern: Full time - 10 sessions per week (Monday - Friday - 10 PA 7DCC+1PA for Admin/SPA)",
+    "hospital": "Northampton General Hospital NHS Trust",
+    "location": "Northampton",
+    "source": "Northampton Jobs",
+    "postedDate": {
+      "relative": "Recently posted",
+      "actual": "2026-08-28T16:29:06.395Z",
+      "timestamp": 1787934546395
+    },
+    "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northampton/Northampton_General_Hospital_NHS_Trust/Head_Neck_ENT_Locum_Consultant/Head_Neck_ENT_Locum_Consultant-v8230229",
+    "scrapedAt": "2026-08-28T16:29:06.395Z"
+  },
+  {
+    "id": "northampton-locum-consultant-speciality-locum-consultant-in-ent-with-interest-in-head-neck",
+    "title": "Locum Consultant - Speciality: Locum Consultant in ENT with interest in Head & Neck",
+    "grade": "Locum Consultant",
+    "speciality": "Speciality: Locum Consultant in ENT with interest in Head & Neck",
+    "salary": "Salary: £113,565 - £150,569 per annum pro rata",
+    "workingPattern": "Weekly working pattern: Part time - 4 sessions per week (Monday - Friday - 4 PA + On-Call (1 in 8))",
+    "hospital": "Northampton General Hospital NHS Trust",
+    "location": "Northampton",
+    "source": "Northampton Jobs",
+    "postedDate": {
+      "relative": "Recently posted",
+      "actual": "2026-08-28T16:29:06.395Z",
+      "timestamp": 1787934546395
+    },
+    "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northampton/Northampton_General_Hospital_NHS_Trust/Locum_Consultant_ENT_with_interest_Head_Neck/Locum_Consultant_ENT_with_interest_Head_Neck-v8230454",
+    "scrapedAt": "2026-08-28T16:29:06.395Z"
+  },
+  {
+    "id": "northampton-locum-consultant-speciality-head-and-neck-ent-locum-consultant",
+    "title": "Locum Consultant - Speciality: Head and Neck ENT Locum Consultant",
+    "grade": "Locum Consultant",
+    "speciality": "Speciality: Head and Neck ENT Locum Consultant",
+    "salary": "Salary: £113,565 - £150,569 per annum pro rata",
+    "workingPattern": "Weekly working pattern: Full time - 10 sessions per week (Monday - Friday - 10 PA 7DCC+1PA for Admin/SPA)",
+    "hospital": "Northampton General Hospital NHS Trust",
+    "location": "Northampton",
+    "source": "Northampton Jobs",
+    "postedDate": {
+      "relative": "Recently posted",
+      "actual": "2026-08-28T16:29:06.395Z",
+      "timestamp": 1787934546395
+    },
+    "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northampton/Northampton_General_Hospital_NHS_Trust/Head_Neck_ENT_Locum_Consultant/Head_Neck_ENT_Locum_Consultant-v8235479",
+    "scrapedAt": "2026-08-28T16:29:06.395Z"
+  },
+  {
+    "id": "northampton-nhs-medical-dental-locum-consultant-speciality-head-and-neck-ent-locum-consultant",
+    "title": "NHS Medical & Dental: Locum Consultant - Speciality: Head and Neck ENT Locum Consultant",
+    "grade": "NHS Medical & Dental: Locum Consultant",
+    "speciality": "Speciality: Head and Neck ENT Locum Consultant",
+    "salary": "Salary: £113,565 - £150,569 per annum",
+    "workingPattern": "Weekly working pattern: Full time - 10 sessions per week (Monday - Friday - 10 PA 7DCC+1PA for Admin/SPA)",
+    "hospital": "Northampton General Hospital NHS Trust",
+    "location": "Northampton",
+    "source": "Northampton Jobs",
+    "postedDate": {
+      "relative": "Recently posted",
+      "actual": "2026-08-28T16:29:06.396Z",
+      "timestamp": 1787934546396
+    },
+    "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northampton/Northampton_General_Hospital_NHS_Trust/Head_Neck_ENT_Locum_Consultant/Head_Neck_ENT_Locum_Consultant-v8251686",
+    "scrapedAt": "2026-08-28T16:29:06.396Z"
   }
 ]
