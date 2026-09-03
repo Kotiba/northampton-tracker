@@ -11,11 +11,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-09-03T13:44:40.506Z",
-      "timestamp": 1788443080506
+      "actual": "2026-09-03T17:28:15.736Z",
+      "timestamp": 1788456495737
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northampton/Northampton_General_Hospital_NHS_Trust/Head_Neck_ENT_Locum_Consultant/Head_Neck_ENT_Locum_Consultant-v8230229",
-    "scrapedAt": "2026-09-03T13:44:40.506Z"
+    "scrapedAt": "2026-09-03T17:28:15.737Z"
   },
   {
     "id": "northampton-locum-consultant-speciality-locum-consultant-in-ent-with-interest-in-head-neck",
@@ -29,11 +29,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-09-03T13:44:40.506Z",
-      "timestamp": 1788443080506
+      "actual": "2026-09-03T17:28:15.737Z",
+      "timestamp": 1788456495737
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northampton/Northampton_General_Hospital_NHS_Trust/Locum_Consultant_ENT_with_interest_Head_Neck/Locum_Consultant_ENT_with_interest_Head_Neck-v8230454",
-    "scrapedAt": "2026-09-03T13:44:40.506Z"
+    "scrapedAt": "2026-09-03T17:28:15.737Z"
   },
   {
     "id": "northampton-nhs-medical-dental-locum-consultant-speciality-head-and-neck-ent-locum-consultant",
@@ -47,11 +47,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-09-03T13:44:40.506Z",
-      "timestamp": 1788443080506
+      "actual": "2026-09-03T17:28:15.737Z",
+      "timestamp": 1788456495737
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northampton/Northampton_General_Hospital_NHS_Trust/Head_Neck_ENT_Locum_Consultant/Head_Neck_ENT_Locum_Consultant-v8251686",
-    "scrapedAt": "2026-09-03T13:44:40.506Z"
+    "scrapedAt": "2026-09-03T17:28:15.737Z"
   },
   {
     "id": "northampton-consultant-speciality-clinical-haematology",
@@ -65,17 +65,17 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-09-03T13:44:40.506Z",
-      "timestamp": 1788443080506
+      "actual": "2026-09-03T17:28:15.737Z",
+      "timestamp": 1788456495737
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Kettering/Kettering_General_Hospital_NHS_Foundation_Trust/Clinical_Haematology/Clinical_Haematology-v8266834",
-    "scrapedAt": "2026-09-03T13:44:40.506Z"
+    "scrapedAt": "2026-09-03T17:28:15.737Z"
   },
   {
-    "id": "northampton-consultant-speciality-consultant-physician-in-general-internal-medicine-and-an-interest-in-diabetes-",
-    "title": "Consultant - Speciality: Consultant Physician In General  Internal Medicine And An Interest In  Diabetes & Cardiovascular Medicine",
+    "id": "northampton-consultant-speciality-consultant-in-diabetes-and-endocrinology-with-gim",
+    "title": "Consultant - Speciality: Consultant in Diabetes and Endocrinology with GIM",
     "grade": "Consultant",
-    "speciality": "Speciality: Consultant Physician In General  Internal Medicine And An Interest In  Diabetes & Cardiovascular Medicine",
+    "speciality": "Speciality: Consultant in Diabetes and Endocrinology with GIM",
     "salary": "Salary: £113,565 - £150,569 annual",
     "workingPattern": "Weekly working pattern: Full time - 10 sessions per week",
     "hospital": "Northampton General Hospital NHS Trust",
@@ -83,10 +83,10 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-09-03T13:44:40.506Z",
-      "timestamp": 1788443080506
+      "actual": "2026-09-03T17:28:15.737Z",
+      "timestamp": 1788456495737
     },
-    "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Kettering/Kettering_General_Hospital_NHS_Foundation_Trust/Consultant_Physician_General_Internal_Medicine_An_Interest_Diabetes_Cardiovascular_Medicine/Consultant_Physician_General_Internal_Medicine_An_Interest_Diabetes_Cardiovascular_Medicine-v8269141",
-    "scrapedAt": "2026-09-03T13:44:40.506Z"
+    "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Kettering/Kettering_General_Hospital_NHS_Foundation_Trust/Consultant_Diabetes_Endocrinology_with_GIM/Consultant_Diabetes_Endocrinology_with_GIM-v8269141",
+    "scrapedAt": "2026-09-03T17:28:15.737Z"
   }
 ]
