@@ -1,59 +1,5 @@
 [
   {
-    "id": "northampton-locum-consultant-speciality-head-and-neck-ent-locum-consultant",
-    "title": "Locum Consultant - Speciality: Head and Neck ENT Locum Consultant",
-    "grade": "Locum Consultant",
-    "speciality": "Speciality: Head and Neck ENT Locum Consultant",
-    "salary": "Salary: £113,565 - £150,569 per annum pro rata",
-    "workingPattern": "Weekly working pattern: Full time - 10 sessions per week (Monday - Friday - 10 PA 7DCC+1PA for Admin/SPA)",
-    "hospital": "Northampton General Hospital NHS Trust",
-    "location": "Northampton",
-    "source": "Northampton Jobs",
-    "postedDate": {
-      "relative": "Recently posted",
-      "actual": "2026-09-13T22:31:21.988Z",
-      "timestamp": 1789338681988
-    },
-    "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northampton/Northampton_General_Hospital_NHS_Trust/Head_Neck_ENT_Locum_Consultant/Head_Neck_ENT_Locum_Consultant-v8230229",
-    "scrapedAt": "2026-09-13T22:31:21.988Z"
-  },
-  {
-    "id": "northampton-locum-consultant-speciality-locum-consultant-in-ent-with-interest-in-head-neck",
-    "title": "Locum Consultant - Speciality: Locum Consultant in ENT with interest in Head & Neck",
-    "grade": "Locum Consultant",
-    "speciality": "Speciality: Locum Consultant in ENT with interest in Head & Neck",
-    "salary": "Salary: £113,565 - £150,569 per annum pro rata",
-    "workingPattern": "Weekly working pattern: Part time - 4 sessions per week (Monday - Friday - 4 PA + On-Call (1 in 8))",
-    "hospital": "Northampton General Hospital NHS Trust",
-    "location": "Northampton",
-    "source": "Northampton Jobs",
-    "postedDate": {
-      "relative": "Recently posted",
-      "actual": "2026-09-13T22:31:21.989Z",
-      "timestamp": 1789338681989
-    },
-    "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northampton/Northampton_General_Hospital_NHS_Trust/Locum_Consultant_ENT_with_interest_Head_Neck/Locum_Consultant_ENT_with_interest_Head_Neck-v8230454",
-    "scrapedAt": "2026-09-13T22:31:21.989Z"
-  },
-  {
-    "id": "northampton-nhs-medical-dental-locum-consultant-speciality-head-and-neck-ent-locum-consultant",
-    "title": "NHS Medical & Dental: Locum Consultant - Speciality: Head and Neck ENT Locum Consultant",
-    "grade": "NHS Medical & Dental: Locum Consultant",
-    "speciality": "Speciality: Head and Neck ENT Locum Consultant",
-    "salary": "Salary: £113,565 - £150,569 per annum",
-    "workingPattern": "Weekly working pattern: Full time - 10 sessions per week (Monday - Friday - 10 PA 7DCC+1PA for Admin/SPA)",
-    "hospital": "Northampton General Hospital NHS Trust",
-    "location": "Northampton",
-    "source": "Northampton Jobs",
-    "postedDate": {
-      "relative": "Recently posted",
-      "actual": "2026-09-13T22:31:21.989Z",
-      "timestamp": 1789338681989
-    },
-    "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northampton/Northampton_General_Hospital_NHS_Trust/Head_Neck_ENT_Locum_Consultant/Head_Neck_ENT_Locum_Consultant-v8251686",
-    "scrapedAt": "2026-09-13T22:31:21.989Z"
-  },
-  {
     "id": "northampton-consultant-speciality-clinical-haematology",
     "title": "Consultant - Speciality: Clinical Haematology",
     "grade": "Consultant",
@@ -65,11 +11,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-09-13T22:31:21.989Z",
-      "timestamp": 1789338681989
+      "actual": "2026-09-14T00:38:02.702Z",
+      "timestamp": 1789346282702
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Kettering/Kettering_General_Hospital_NHS_Foundation_Trust/Clinical_Haematology/Clinical_Haematology-v8266834",
-    "scrapedAt": "2026-09-13T22:31:21.989Z"
+    "scrapedAt": "2026-09-14T00:38:02.702Z"
   },
   {
     "id": "northampton-consultant-speciality-consultant-in-diabetes-and-endocrinology-with-gim",
@@ -83,11 +29,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-09-13T22:31:21.989Z",
-      "timestamp": 1789338681989
+      "actual": "2026-09-14T00:38:02.702Z",
+      "timestamp": 1789346282702
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Kettering/Kettering_General_Hospital_NHS_Foundation_Trust/Consultant_Diabetes_Endocrinology_with_GIM/Consultant_Diabetes_Endocrinology_with_GIM-v8269141",
-    "scrapedAt": "2026-09-13T22:31:21.989Z"
+    "scrapedAt": "2026-09-14T00:38:02.702Z"
   },
   {
     "id": "northampton-consultant-speciality-ent-consultant",
@@ -101,11 +47,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-09-13T22:31:21.989Z",
-      "timestamp": 1789338681989
+      "actual": "2026-09-14T00:38:02.702Z",
+      "timestamp": 1789346282702
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Kettering/Kettering_General_Hospital_NHS_Foundation_Trust/ENT_Consultant/ENT_Consultant-v8169795",
-    "scrapedAt": "2026-09-13T22:31:21.989Z"
+    "scrapedAt": "2026-09-14T00:38:02.702Z"
   },
   {
     "id": "northampton-nhs-medical-dental-consultant-speciality-emergency-medicine",
@@ -119,11 +65,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-09-13T22:31:21.989Z",
-      "timestamp": 1789338681989
+      "actual": "2026-09-14T00:38:02.702Z",
+      "timestamp": 1789346282702
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northampton/Northampton_General_Hospital_NHS_Trust/Emergency_Medicine/Emergency_Medicine-v7979888",
-    "scrapedAt": "2026-09-13T22:31:21.989Z"
+    "scrapedAt": "2026-09-14T00:38:02.702Z"
   },
   {
     "id": "northampton-ct1-2-speciality-obstetrics-and-gynaecology-family-health",
@@ -137,11 +83,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-09-13T22:31:21.989Z",
-      "timestamp": 1789338681989
+      "actual": "2026-09-14T00:38:02.702Z",
+      "timestamp": 1789346282702
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Kettering/Kettering_General_Hospital_NHS_Foundation_Trust/Obstetrics_Gynaecology_Family_Health/Obstetrics_Gynaecology_Family_Health-v8286603",
-    "scrapedAt": "2026-09-13T22:31:21.989Z"
+    "scrapedAt": "2026-09-14T00:38:02.702Z"
   },
   {
     "id": "northampton-junior-clinical-fellow-speciality-urgent-care-acute-medicine",
@@ -155,11 +101,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-09-13T22:31:21.989Z",
-      "timestamp": 1789338681989
+      "actual": "2026-09-14T00:38:02.702Z",
+      "timestamp": 1789346282702
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northamptonshire/Northampton_General_Hospital_NHS_Trust/Urgent_careAcute_Medicine/Urgent_careAcute_Medicine-v8288848",
-    "scrapedAt": "2026-09-13T22:31:21.989Z"
+    "scrapedAt": "2026-09-14T00:38:02.702Z"
   },
   {
     "id": "northampton-locum-consultant-speciality-urology",
@@ -173,10 +119,10 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-09-13T22:31:21.989Z",
-      "timestamp": 1789338681989
+      "actual": "2026-09-14T00:38:02.702Z",
+      "timestamp": 1789346282702
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northampton/Northampton_General_Hospital_NHS_Trust/Urology/Urology-v8211696",
-    "scrapedAt": "2026-09-13T22:31:21.989Z"
+    "scrapedAt": "2026-09-14T00:38:02.702Z"
   }
 ]
