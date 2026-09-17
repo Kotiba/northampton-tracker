@@ -11,11 +11,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-09-17T21:35:11.877Z",
-      "timestamp": 1789680911877
+      "actual": "2026-09-17T23:52:15.333Z",
+      "timestamp": 1789689135333
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Kettering/Kettering_General_Hospital_NHS_Foundation_Trust/Consultant_Diabetes_Endocrinology_with_GIM/Consultant_Diabetes_Endocrinology_with_GIM-v8269141",
-    "scrapedAt": "2026-09-17T21:35:11.877Z"
+    "scrapedAt": "2026-09-17T23:52:15.333Z"
   },
   {
     "id": "northampton-consultant-speciality-ent-consultant",
@@ -29,11 +29,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-09-17T21:35:11.877Z",
-      "timestamp": 1789680911877
+      "actual": "2026-09-17T23:52:15.333Z",
+      "timestamp": 1789689135333
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Kettering/Kettering_General_Hospital_NHS_Foundation_Trust/ENT_Consultant/ENT_Consultant-v8169795",
-    "scrapedAt": "2026-09-17T21:35:11.877Z"
+    "scrapedAt": "2026-09-17T23:52:15.333Z"
   },
   {
     "id": "northampton-nhs-medical-dental-consultant-speciality-emergency-medicine",
@@ -47,29 +47,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-09-17T21:35:11.877Z",
-      "timestamp": 1789680911877
+      "actual": "2026-09-17T23:52:15.333Z",
+      "timestamp": 1789689135333
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northampton/Northampton_General_Hospital_NHS_Trust/Emergency_Medicine/Emergency_Medicine-v7979888",
-    "scrapedAt": "2026-09-17T21:35:11.877Z"
-  },
-  {
-    "id": "northampton-ct1-2-speciality-obstetrics-and-gynaecology-family-health",
-    "title": "CT1/2 - Speciality: Obstetrics and Gynaecology, Family Health",
-    "grade": "CT1/2",
-    "speciality": "Speciality: Obstetrics and Gynaecology, Family Health",
-    "salary": "Salary: £55,355 per annum, plus rota enhancements",
-    "workingPattern": "Weekly working pattern: \n\tFull timePart timeFlexible working\n 40 hours per week (weekends, nights and on-calls)",
-    "hospital": "Northampton General Hospital NHS Trust",
-    "location": "Northampton",
-    "source": "Northampton Jobs",
-    "postedDate": {
-      "relative": "Recently posted",
-      "actual": "2026-09-17T21:35:11.877Z",
-      "timestamp": 1789680911877
-    },
-    "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Kettering/Kettering_General_Hospital_NHS_Foundation_Trust/Obstetrics_Gynaecology_Family_Health/Obstetrics_Gynaecology_Family_Health-v8286603",
-    "scrapedAt": "2026-09-17T21:35:11.877Z"
+    "scrapedAt": "2026-09-17T23:52:15.333Z"
   },
   {
     "id": "northampton-locum-consultant-speciality-urology",
@@ -83,11 +65,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-09-17T21:35:11.877Z",
-      "timestamp": 1789680911877
+      "actual": "2026-09-17T23:52:15.333Z",
+      "timestamp": 1789689135333
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northampton/Northampton_General_Hospital_NHS_Trust/Urology/Urology-v8211696",
-    "scrapedAt": "2026-09-17T21:35:11.877Z"
+    "scrapedAt": "2026-09-17T23:52:15.333Z"
   },
   {
     "id": "northampton-nhs-medical-dental-consultant-speciality-paediatrics",
@@ -101,11 +83,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-09-17T21:35:11.877Z",
-      "timestamp": 1789680911877
+      "actual": "2026-09-17T23:52:15.333Z",
+      "timestamp": 1789689135333
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northampton/Northampton_General_Hospital_NHS_Trust/Paediatrics/Paediatrics-v8137240",
-    "scrapedAt": "2026-09-17T21:35:11.877Z"
+    "scrapedAt": "2026-09-17T23:52:15.333Z"
   },
   {
     "id": "northampton-nhs-medical-dental-consultant-speciality-emergency-medicine",
@@ -119,10 +101,10 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-09-17T21:35:11.877Z",
-      "timestamp": 1789680911877
+      "actual": "2026-09-17T23:52:15.333Z",
+      "timestamp": 1789689135333
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northampton/Northampton_General_Hospital_NHS_Trust/Emergency_Medicine/Emergency_Medicine-v7979890",
-    "scrapedAt": "2026-09-17T21:35:11.877Z"
+    "scrapedAt": "2026-09-17T23:52:15.333Z"
   }
 ]
