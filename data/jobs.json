@@ -11,11 +11,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-10-07T22:35:05.610Z",
-      "timestamp": 1791412505610
+      "actual": "2026-10-08T02:24:58.546Z",
+      "timestamp": 1791426298546
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northampton/Northampton_General_Hospital_NHS_Trust/Emergency_Medicine/Emergency_Medicine-v7979890",
-    "scrapedAt": "2026-10-07T22:35:05.610Z"
+    "scrapedAt": "2026-10-08T02:24:58.546Z"
   },
   {
     "id": "northampton-consultant-speciality-gastroenterology",
@@ -29,29 +29,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-10-07T22:35:05.610Z",
-      "timestamp": 1791412505610
+      "actual": "2026-10-08T02:24:58.546Z",
+      "timestamp": 1791426298546
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northampton/Northampton_General_Hospital_NHS_Trust/Gastroenterology/Gastroenterology-v8219385",
-    "scrapedAt": "2026-10-07T22:35:05.610Z"
-  },
-  {
-    "id": "northampton-specialty-trainee-st3-speciality-medicine",
-    "title": "Specialty Trainee (ST3 +) - Speciality: Medicine",
-    "grade": "Specialty Trainee (ST3 +)",
-    "speciality": "Speciality: Medicine",
-    "salary": "Salary: £67,325 - £76,582 per annum pro rata",
-    "workingPattern": "Weekly working pattern: \n\tFull timePart timeJob shareFlexible working\n 40 hours per week (40 hours per week)",
-    "hospital": "Northampton General Hospital NHS Trust",
-    "location": "Northampton",
-    "source": "Northampton Jobs",
-    "postedDate": {
-      "relative": "Recently posted",
-      "actual": "2026-10-07T22:35:05.610Z",
-      "timestamp": 1791412505610
-    },
-    "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Kettering/Kettering_General_Hospital_NHS_Foundation_Trust/Medicine/Medicine-v8157925",
-    "scrapedAt": "2026-10-07T22:35:05.610Z"
+    "scrapedAt": "2026-10-08T02:24:58.546Z"
   },
   {
     "id": "northampton-consultant-speciality-medicine",
@@ -65,11 +47,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-10-07T22:35:05.610Z",
-      "timestamp": 1791412505610
+      "actual": "2026-10-08T02:24:58.546Z",
+      "timestamp": 1791426298546
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Kettering/Kettering_General_Hospital_NHS_Foundation_Trust/Medicine/Medicine-v8300084",
-    "scrapedAt": "2026-10-07T22:35:05.610Z"
+    "scrapedAt": "2026-10-08T02:24:58.546Z"
   },
   {
     "id": "northampton-consultant-speciality-cellular-pathology",
@@ -83,11 +65,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-10-07T22:35:05.610Z",
-      "timestamp": 1791412505610
+      "actual": "2026-10-08T02:24:58.546Z",
+      "timestamp": 1791426298546
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northampton/Northampton_General_Hospital_NHS_Trust/Cellular_Pathology/Cellular_Pathology-v8252956",
-    "scrapedAt": "2026-10-07T22:35:05.610Z"
+    "scrapedAt": "2026-10-08T02:24:58.546Z"
   },
   {
     "id": "northampton-consultant-speciality-obstetrics-gynaecology",
@@ -101,11 +83,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-10-07T22:35:05.610Z",
-      "timestamp": 1791412505610
+      "actual": "2026-10-08T02:24:58.546Z",
+      "timestamp": 1791426298546
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Kettering/Kettering_General_Hospital_NHS_Foundation_Trust/Obstetrics_Gynaecology/Obstetrics_Gynaecology-v8340291",
-    "scrapedAt": "2026-10-07T22:35:05.610Z"
+    "scrapedAt": "2026-10-08T02:24:58.546Z"
   },
   {
     "id": "northampton-specialty-doctor-speciality-radiology",
@@ -119,11 +101,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-10-07T22:35:05.610Z",
-      "timestamp": 1791412505610
+      "actual": "2026-10-08T02:24:58.546Z",
+      "timestamp": 1791426298546
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Kettering/Kettering_General_Hospital_NHS_Foundation_Trust/Radiology/Radiology-v8130301",
-    "scrapedAt": "2026-10-07T22:35:05.610Z"
+    "scrapedAt": "2026-10-08T02:24:58.546Z"
   },
   {
     "id": "northampton-consultant-speciality-rheumatology",
@@ -137,11 +119,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-10-07T22:35:05.610Z",
-      "timestamp": 1791412505610
+      "actual": "2026-10-08T02:24:58.546Z",
+      "timestamp": 1791426298546
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northampton/Northampton_General_Hospital_NHS_Trust/Rheumatology/Rheumatology-v8182950",
-    "scrapedAt": "2026-10-07T22:35:05.610Z"
+    "scrapedAt": "2026-10-08T02:24:58.546Z"
   },
   {
     "id": "northampton-consultant-speciality-neurology",
@@ -155,11 +137,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-10-07T22:35:05.610Z",
-      "timestamp": 1791412505610
+      "actual": "2026-10-08T02:24:58.546Z",
+      "timestamp": 1791426298546
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Kettering/Kettering_General_Hospital_NHS_Foundation_Trust/Neurology/Neurology-v8301884",
-    "scrapedAt": "2026-10-07T22:35:05.610Z"
+    "scrapedAt": "2026-10-08T02:24:58.546Z"
   },
   {
     "id": "northampton-consultant-speciality-clinical-haematology",
@@ -173,10 +155,10 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-10-07T22:35:05.610Z",
-      "timestamp": 1791412505610
+      "actual": "2026-10-08T02:24:58.546Z",
+      "timestamp": 1791426298546
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Kettering/Kettering_General_Hospital_NHS_Foundation_Trust/Clinical_Haematology/Clinical_Haematology-v8343872",
-    "scrapedAt": "2026-10-07T22:35:05.610Z"
+    "scrapedAt": "2026-10-08T02:24:58.546Z"
   }
 ]
