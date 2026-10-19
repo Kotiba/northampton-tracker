@@ -11,47 +11,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-10-18T22:46:12.036Z",
-      "timestamp": 1792363572036
+      "actual": "2026-10-19T00:43:33.585Z",
+      "timestamp": 1792370613585
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northampton/Northampton_General_Hospital_NHS_Trust/Gastroenterology/Gastroenterology-v8219385",
-    "scrapedAt": "2026-10-18T22:46:12.036Z"
-  },
-  {
-    "id": "northampton-consultant-speciality-cellular-pathology",
-    "title": "Consultant - Speciality: Cellular Pathology",
-    "grade": "Consultant",
-    "speciality": "Speciality: Cellular Pathology",
-    "salary": "Salary: £113,565 - £150,569 per annum",
-    "workingPattern": "Weekly working pattern: Full time - 10 sessions per week",
-    "hospital": "Northampton General Hospital NHS Trust",
-    "location": "Northampton",
-    "source": "Northampton Jobs",
-    "postedDate": {
-      "relative": "Recently posted",
-      "actual": "2026-10-18T22:46:12.036Z",
-      "timestamp": 1792363572036
-    },
-    "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northampton/Northampton_General_Hospital_NHS_Trust/Cellular_Pathology/Cellular_Pathology-v8252956",
-    "scrapedAt": "2026-10-18T22:46:12.036Z"
-  },
-  {
-    "id": "northampton-consultant-speciality-obstetrics-gynaecology",
-    "title": "Consultant - Speciality: Obstetrics & Gynaecology",
-    "grade": "Consultant",
-    "speciality": "Speciality: Obstetrics & Gynaecology",
-    "salary": "Salary: £113,565 - £150,569 Per annum / Pro rata",
-    "workingPattern": "Weekly working pattern: Full time - 10 sessions per week",
-    "hospital": "Northampton General Hospital NHS Trust",
-    "location": "Northampton",
-    "source": "Northampton Jobs",
-    "postedDate": {
-      "relative": "Recently posted",
-      "actual": "2026-10-18T22:46:12.036Z",
-      "timestamp": 1792363572036
-    },
-    "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Kettering/Kettering_General_Hospital_NHS_Foundation_Trust/Obstetrics_Gynaecology/Obstetrics_Gynaecology-v8340291",
-    "scrapedAt": "2026-10-18T22:46:12.036Z"
+    "scrapedAt": "2026-10-19T00:43:33.585Z"
   },
   {
     "id": "northampton-specialty-doctor-speciality-radiology",
@@ -65,29 +29,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-10-18T22:46:12.036Z",
-      "timestamp": 1792363572036
+      "actual": "2026-10-19T00:43:33.585Z",
+      "timestamp": 1792370613585
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Kettering/Kettering_General_Hospital_NHS_Foundation_Trust/Radiology/Radiology-v8130301",
-    "scrapedAt": "2026-10-18T22:46:12.036Z"
-  },
-  {
-    "id": "northampton-consultant-speciality-rheumatology",
-    "title": "Consultant - Speciality: Rheumatology",
-    "grade": "Consultant",
-    "speciality": "Speciality: Rheumatology",
-    "salary": "Salary: £113,565 - £150,569 Per Annum  / Pro Rata",
-    "workingPattern": "Weekly working pattern: \n\tFull timePart timeFlexible working\n 10 sessions per week",
-    "hospital": "Northampton General Hospital NHS Trust",
-    "location": "Northampton",
-    "source": "Northampton Jobs",
-    "postedDate": {
-      "relative": "Recently posted",
-      "actual": "2026-10-18T22:46:12.036Z",
-      "timestamp": 1792363572036
-    },
-    "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northampton/Northampton_General_Hospital_NHS_Trust/Rheumatology/Rheumatology-v8182950",
-    "scrapedAt": "2026-10-18T22:46:12.036Z"
+    "scrapedAt": "2026-10-19T00:43:33.585Z"
   },
   {
     "id": "northampton-consultant-speciality-neurology",
@@ -101,11 +47,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-10-18T22:46:12.036Z",
-      "timestamp": 1792363572036
+      "actual": "2026-10-19T00:43:33.585Z",
+      "timestamp": 1792370613585
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Kettering/Kettering_General_Hospital_NHS_Foundation_Trust/Neurology/Neurology-v8301884",
-    "scrapedAt": "2026-10-18T22:46:12.036Z"
+    "scrapedAt": "2026-10-19T00:43:33.585Z"
   },
   {
     "id": "northampton-consultant-speciality-clinical-haematology",
@@ -119,11 +65,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-10-18T22:46:12.036Z",
-      "timestamp": 1792363572036
+      "actual": "2026-10-19T00:43:33.585Z",
+      "timestamp": 1792370613585
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Kettering/Kettering_General_Hospital_NHS_Foundation_Trust/Clinical_Haematology/Clinical_Haematology-v8343872",
-    "scrapedAt": "2026-10-18T22:46:12.036Z"
+    "scrapedAt": "2026-10-19T00:43:33.585Z"
   },
   {
     "id": "northampton-consultant-speciality-respiratory-medicine",
@@ -137,11 +83,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-10-18T22:46:12.036Z",
-      "timestamp": 1792363572036
+      "actual": "2026-10-19T00:43:33.585Z",
+      "timestamp": 1792370613585
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northampton/Northampton_General_Hospital_NHS_Trust/Respiratory_Medicine/Respiratory_Medicine-v8261684",
-    "scrapedAt": "2026-10-18T22:46:12.036Z"
+    "scrapedAt": "2026-10-19T00:43:33.585Z"
   },
   {
     "id": "northampton-locum-consultant-speciality-anaesthetics",
@@ -155,11 +101,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-10-18T22:46:12.036Z",
-      "timestamp": 1792363572036
+      "actual": "2026-10-19T00:43:33.585Z",
+      "timestamp": 1792370613585
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northampton/Northampton_General_Hospital_NHS_Trust/Anaesthetics/Anaesthetics-v8304282",
-    "scrapedAt": "2026-10-18T22:46:12.036Z"
+    "scrapedAt": "2026-10-19T00:43:33.585Z"
   },
   {
     "id": "northampton-consultant-speciality-obstetrics",
@@ -173,29 +119,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-10-18T22:46:12.036Z",
-      "timestamp": 1792363572036
+      "actual": "2026-10-19T00:43:33.585Z",
+      "timestamp": 1792370613585
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northampton/Northampton_General_Hospital_NHS_Trust/Obstetrics/Obstetrics-v8275049",
-    "scrapedAt": "2026-10-18T22:46:12.036Z"
-  },
-  {
-    "id": "northampton-specialty-registrar-speciality-general-practice",
-    "title": "Specialty Registrar - Speciality: General Practice",
-    "grade": "Specialty Registrar",
-    "speciality": "Speciality: General Practice",
-    "salary": "Salary: £67,325 - £76,582 per annum",
-    "workingPattern": "Weekly working pattern: \n\tFull timePart timeFlexible working\n 40 hours per week",
-    "hospital": "Northampton General Hospital NHS Trust",
-    "location": "Northampton",
-    "source": "Northampton Jobs",
-    "postedDate": {
-      "relative": "Recently posted",
-      "actual": "2026-10-18T22:46:12.036Z",
-      "timestamp": 1792363572036
-    },
-    "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northampton/Northampton_General_Hospital_NHS_Trust/General_Practice/General_Practice-v8357264",
-    "scrapedAt": "2026-10-18T22:46:12.036Z"
+    "scrapedAt": "2026-10-19T00:43:33.585Z"
   },
   {
     "id": "northampton-senior-clinical-fellow-speciality-dermatology",
@@ -209,11 +137,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-10-18T22:46:12.036Z",
-      "timestamp": 1792363572036
+      "actual": "2026-10-19T00:43:33.585Z",
+      "timestamp": 1792370613585
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Kettering/Kettering_General_Hospital_NHS_Foundation_Trust/Dermatology/Dermatology-v8328337",
-    "scrapedAt": "2026-10-18T22:46:12.036Z"
+    "scrapedAt": "2026-10-19T00:43:33.585Z"
   },
   {
     "id": "northampton-band-6-speciality-cardiology",
@@ -227,11 +155,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-10-18T22:46:12.036Z",
-      "timestamp": 1792363572036
+      "actual": "2026-10-19T00:43:33.585Z",
+      "timestamp": 1792370613585
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northampton/Northampton_General_Hospital_NHS_Trust/Cardiology/Cardiology-v8199626",
-    "scrapedAt": "2026-10-18T22:46:12.036Z"
+    "scrapedAt": "2026-10-19T00:43:33.585Z"
   },
   {
     "id": "northampton-nhs-medical-dental-locum-consultant-speciality-anaesthetics",
@@ -245,11 +173,11 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-10-18T22:46:12.036Z",
-      "timestamp": 1792363572036
+      "actual": "2026-10-19T00:43:33.585Z",
+      "timestamp": 1792370613585
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northampton/Northampton_General_Hospital_NHS_Trust/Anaesthetics/Anaesthetics-v8349665",
-    "scrapedAt": "2026-10-18T22:46:12.036Z"
+    "scrapedAt": "2026-10-19T00:43:33.585Z"
   },
   {
     "id": "northampton-senior-clinical-fellow-speciality-general-medicine",
@@ -263,10 +191,10 @@
     "source": "Northampton Jobs",
     "postedDate": {
       "relative": "Recently posted",
-      "actual": "2026-10-18T22:46:12.036Z",
-      "timestamp": 1792363572036
+      "actual": "2026-10-19T00:43:33.585Z",
+      "timestamp": 1792370613585
     },
     "link": "https://www.northamptongeneral.nhs.uk/Work-for-Us/Job-Board.aspx#!/job/UK/Northamptonshire/Northampton/Northampton_General_Hospital_NHS_Trust/general_medicine/general_medicine-v8370565",
-    "scrapedAt": "2026-10-18T22:46:12.036Z"
+    "scrapedAt": "2026-10-19T00:43:33.585Z"
   }
 ]
